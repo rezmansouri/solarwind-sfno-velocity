@@ -40,5 +40,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-SFNO opens up new directions for fast, data-driven modeling of heliophysical phenomena and invites future work in physics-informed training and evaluation.
