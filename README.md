@@ -1,7 +1,7 @@
 # Toward Data-Driven Surrogates of the Solar Wind with Spherical Fourier Neural Operator
 
 This repository contains the official implementation of the paper **"Toward Data-Driven Surrogates of the Solar Wind with Spherical Fourier Neural Operator"**.  
-The project introduces the **Spherical Fourier Neural Operator (SFNO)** as the first data-driven surrogate model for simulating the **radial velocity of the solar wind**.
+The project utilizes the **Spherical Fourier Neural Operator (SFNO)** as the first data-driven surrogate model for simulating the **radial velocity of the solar wind**.
 
 Traditional numerical models like HUX rely on simplified assumptions that limit adaptability and real-time performance. SFNO learns directly from data in the spectral domain on spherical geometries, offering a flexible and efficient alternative that improves with more data and training.
 
